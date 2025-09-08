@@ -1,0 +1,11 @@
+wmt@wmt-VirtualBox:~/gl4es$ git log
+commit a744af14d4afbda77bf472bc53f43b9ceba39cc0 (HEAD -> master, origin/master, origin/HEAD)
+Merge: ea0da40a f818f02b
+Author: ptitSeb <sebastien.chev@gmail.com>
+Date:   Sat Dec 28 13:19:29 2024 +0100
+
+    Merge pull request #481 from oktonion/master
+    
+    resolving typedef errors for C99 and add EGL support for QNX NTO
+
+
