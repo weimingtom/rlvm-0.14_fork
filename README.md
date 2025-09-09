@@ -1,6 +1,11 @@
 # rlvm-0.14_fork
 [WIP] My RLVM 0.14 (old RLVM) fork, not so much compatible with old Planetarian steam version but I mainly use this code base.    
 
+## Bugs and TODO
+* Not so much compatible with old Planetarian steam version, if run to the third (?) chapter, it will go to the main menu.  
+* (TODO) Remove gl4es, but it's too difficult  
+* (TODO) Remove boost, but it's too difficult  
+
 ## Ref
 * https://github.com/eglaysher/rlvm/tree/release-0.14
 * https://github.com/eglaysher/rlvm/releases/tag/release-0.14
