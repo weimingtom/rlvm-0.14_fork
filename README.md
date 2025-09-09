@@ -1,5 +1,5 @@
 # rlvm-0.14_fork
-[WIP] My RLVM 0.14 (old RLVM) fork, not so much compatible with old Planetarian steam version but I mainly use this  
+[WIP] My RLVM 0.14 (old RLVM) fork, not so much compatible with old Planetarian steam version but I mainly use this code base.    
 
 ## Ref
 * https://github.com/eglaysher/rlvm/tree/release-0.14
