@@ -2,6 +2,9 @@
 [WIP] My RLVM 0.14 (old RLVM) fork, not so much compatible with old Planetarian steam version but I mainly use this  
 
 ## Ref
+* https://github.com/eglaysher/rlvm
+* (gl4es) https://github.com/xyzz/rlvm-android/blob/master/buildscripts/build.sh
+* https://github.com/ptitSeb/gl4es  
 * eglaysher-rlvm-b88bfe0_v36_trimui.tar.gz
 
 ## (TODO) How to build for Xubuntu 20.04 64bit
