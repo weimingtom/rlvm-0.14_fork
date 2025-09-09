@@ -2,7 +2,8 @@
 [WIP] My RLVM 0.14 (old RLVM) fork, not so much compatible with old Planetarian steam version but I mainly use this  
 
 ## Ref
-* https://github.com/eglaysher/rlvm
+* https://github.com/eglaysher/rlvm/tree/release-0.14
+* https://github.com/eglaysher/rlvm/releases/tag/release-0.14
 * (gl4es) https://github.com/xyzz/rlvm-android/blob/master/buildscripts/build.sh
 * https://github.com/ptitSeb/gl4es  
 * eglaysher-rlvm-b88bfe0_v36_trimui.tar.gz
