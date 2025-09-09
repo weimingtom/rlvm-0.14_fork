@@ -4,6 +4,12 @@
 ## Ref
 * eglaysher-rlvm-b88bfe0_v36_trimui.tar.gz
 
+## (TODO) How to build for Xubuntu 20.04 64bit
+* $ make clean && make -j8
+
+## (TODO) How to build for Trimui Smart Pro
+* $ make MIYOO=2 clean && make MIYOO=2 -j8
+
 ## Original Readme
 
 =====================
